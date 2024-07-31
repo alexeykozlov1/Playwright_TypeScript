@@ -20,5 +20,8 @@
     "eslint-plugin-playwright": "^1.6.2",
     "globals": "^15.8.0",
     "typescript-eslint": "^7.18.0"
+  },
+  "dependencies": {
+    "python": "^0.0.4"
   }
 }
